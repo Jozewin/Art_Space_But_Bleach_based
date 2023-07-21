@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Bleach Captains</string>
+
+    <string name="head_captain">Head Captain of Gotei 13</string>
+    <string name="head_captain_name">Genryusai Yamamoto</string>
+    <string name="head_captain_position">Captain Commander</string>
+
+    <string name="squad_2_name">Suì-Fēng </string>
+    <string name="squad_2">Sui Feng also is head of the Stealth Force</string>
+    <string name="squad_2_position">Squad 2</string>
+
+
+    <string name="squad_3_name">Rōjūrō Ōtoribashi </string>
+    <string name="squad_3">He was exiled along with the other Vizored </string>
+    <string name="squad_3_position">Squad 3</string>
+
+
+    <string name="squad_4_name">Retsu Unohana</string>
+    <string name="squad_4">Previous holder of the Kenpachi title</string>
+    <string name="squad_4_position">Squad 4</string>
+
+    <string name="squad_5_name"> Shinji Hirako</string>
+    <string name="squad_5">Shinji Hirako was the former Fifth Division captain</string>
+    <string name="squad_5_position">Squad 5</string>
+
+    <string name="squad_10_name">Tōshirō Hitsugaya</string>
+    <string name="squad_10">Hitsugaya is the youngest Gotei 13 captain in the Soul Society</string>
+    <string name="squad_10_position">Squad 10</string>
+
+    <string name="squad_7_name">Sajin Komamura</string>
+    <string name="squad_7">He was a mysterious warrior who hid his face behind a bamboo helmet</string>
+    <string name="squad_7_position">Squad 7</string>
+
+    <string name="squad_8_name">Shunsui Kyōraku</string>
+    <string name="squad_8">Shunsui is the second favorite pupil of Captain Commander Yamamoto</string>
+    <string name="squad_8_position"> Squad 8</string>
+
+    <string name="squad_9_name">Kensei Muguruma</string>
+    <string name="squad_9">Kensei is another member of the Visored </string>
+    <string name="squad_9_position">Squad 9</string>
+
+    <string name="squad_6_name">Byakuya Kuchiki </string>
+    <string name="squad_6">Long line of powerful Soul Reapers</string>
+    <string name="squad_6_position">Squad 6</string>
+
+    <string name="squad_11">Current holder of the Kenpachi title </string>
+    <string name="squad_11_name">Kenpachi Zaraki</string>
+    <string name="squad_11_position">Squad 11</string>
+
+
+
+    <string name="squad_12_name">Mayuri Kuotsuchi</string>
+    <string name="squad_12">He is  feared among the Gotei 13 for his horrific experiments</string>
+    <string name="squad_12_position">Squad 12</string>
+
+
+    <string name="squad_13_name">Jūshirō Ukitake</string>
+    <string name="squad_13">Calm and approachable demeanor</string>
+    <string name="squad_13_position">Squad 13</string>
+
+</resources>
